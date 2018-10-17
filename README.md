@@ -10,30 +10,23 @@
 </ul>
 
 
-	A Basic Form
-	![](images/form.PNG)
+A Basic Form
+![](images/form.PNG)
 
 
-<div>
-	<h3>Accorion: only one will be expanded</>
-	![](images/accordion.PNG)
-</div>
+Accorion: only one will be expanded
+![](images/accordion.PNG)
 
-<div>
-	<h3>A card layout</>
-	![](images/card.PNG
-)
-</div>
 
-<div>
-	<h3>Carousel: A Slide picture show</>
-	![](images/carousels.PNG)
-</div>
+A card layout
+![](images/card.PNG)
 
-<div>
-	<h3>Scrollspy:Section name is active</>
-	![](images/scrollspy.PNG)
-</div>
+Carousel: A Slide picture show
+![](images/carousels.PNG)
+
+Scrollspy:Section name is active
+![](images/scrollspy.PNG)
+
 
 
 Ren

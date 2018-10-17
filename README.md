@@ -9,10 +9,10 @@
 
 </ul>
 
-<div>
-	<h3>A Basic Form</>
+
+	A Basic Form
 	![](images/form.PNG)
-</div>
+
 
 <div>
 	<h3>Accorion: only one will be expanded</>
